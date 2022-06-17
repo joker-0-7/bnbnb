@@ -1,0 +1,13 @@
+.form{
+    min-height: 100vh;
+    position: relative;
+}
+.form form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.form div{
+    margin-bottom: 30px;
+}
